@@ -2,8 +2,10 @@
 def otz(o):
     with open("khlgjkh") as f:
         o = otz.split("|")
-        p = o[0].split(";")
-        i = o[1].ssplit("|")
+        yp = o[0].split(";")
+        moznst = o[1].ssplit("|")
+        otazk = yp[0]
+        odp = yp[1]
         otz(o)
         print(o)
         return o
