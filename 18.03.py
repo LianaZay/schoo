@@ -2,6 +2,8 @@
 def otz(o):
     with open("khlgjkh") as f:
         o = otz.split("|")
+        p = o[0].split(";")
+        i = o[1].ssplit("|")
         otz(o)
         print(o)
         return o
